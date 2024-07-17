@@ -15,3 +15,4 @@ Email: Uses a regex to check that the email address ends with either @gmail.com 
 Phone Number: Ensures the phone number starts with 7, 8, or 9 and is exactly 10 digits long.
 Password: Validates that the password is at least 5 characters long and contains at least one digit.
 Confirm Password: Checks if the confirm password field matches the original password.
+
